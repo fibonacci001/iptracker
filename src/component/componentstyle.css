@@ -1,0 +1,48 @@
+.Heroinput{
+    
+    background-image:url('../images/pattern-bg-desktop.png') ;
+    background-position: center;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
+
+.infoholder {
+
+
+    position: absolute;
+    left: 0;
+  right: 0;
+    margin: auto;
+    top: 25%;
+    padding: 1rem;
+    box-shadow: -1px 22px 23px -13px rgba(0,0,0,0.28);
+-webkit-box-shadow: -1px 22px 23px -13px rgba(0,0,0,0.28);
+-moz-box-shadow: -1px 22px 23px -13px rgba(0,0,0,0.28);
+  z-index: 100; 
+}
+.Heroinputholder{
+    position: relative;
+}
+.formcon {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+    align-items: center;
+}
+.mapp {
+    z-index: 1;
+}
+
+@media (max-width: 599px) {
+    .Heroinput{
+        background-image: url('../images/pattern-bg-mobile.png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .divider {
+        display: none;
+    }
+  }
+  
