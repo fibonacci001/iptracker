@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](../ip-address/src/images/Screen%20Shot%202024-01-17%20at%209.44.48%20PM.png)
+![](./ip-address/src/images/Screen%20Shot%202024-01-17%20at%209.44.48%20PM.png)
 
 
 
